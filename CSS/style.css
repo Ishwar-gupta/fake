@@ -1,0 +1,33 @@
+p{
+font-size: xx-large;
+font-weight: 800;
+text-shadow: 
+0 0 10px aqua,
+0 0 100px aqua,
+0 0 30px aqua,
+0 0 40px aqua;
+align-items: center;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 20px;
+}
+#bthor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#img1{
+    padding: 30px;
+}
